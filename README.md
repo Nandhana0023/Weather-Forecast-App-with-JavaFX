@@ -35,7 +35,7 @@ information for any city using the OpenWeatherMap API.
 
 ✅ Input validation
 
-## Project Structue
+## Project Structure
 
 ```
 weather-app/
